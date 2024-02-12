@@ -11,11 +11,18 @@ class Programmer
 Este repositório é o registro da minha jornada no vasto universo da programação
 ## Estatísticas do GitHub 📊
 
+
 <div>
-	
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JsmNei&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)<br>
+
+
+[![Seu Nome Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=JunneiMoreira&layout=compact)](https://wakatime.com/@JunneiMoreira)
+
 [![wakatime](https://wakatime.com/badge/user/018d4622-e656-4cdf-89ba-0e55d9e65996.svg)](https://wakatime.com/@018cff2b-53a4-45db-af92-d78ab0987e8c)
 </div>
+
+	
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JsmNei&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)<br>
+
 
 ## Tecnologia em aprendizado 🎓
 
