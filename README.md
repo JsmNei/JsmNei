@@ -12,7 +12,7 @@ Este repositório é o registro da minha jornada no vasto universo da programaç
 ## Estatísticas do GitHub 📊
 
 ![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=JsmNei&show_icons=true&theme=tokyonight)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JsmNei&show_icons=true&bg_color=00000000)
+
 
 ## Tecnologia em aprendizado 🎓
 
