@@ -11,7 +11,7 @@ class Programmer
 Este repositório é o registro da minha jornada no vasto universo da programação
 ## Estatísticas do GitHub 📊
 
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=JsmNei&show_icons=true&theme=tokyonight)
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=JsmNei&show_icons=true&theme=highcontrast)
 
 
 ## Tecnologia em aprendizado 🎓
