@@ -20,10 +20,7 @@ Este repositório é o registro da minha jornada no vasto universo da programaç
 [![wakatime](https://wakatime.com/badge/user/018d4622-e656-4cdf-89ba-0e55d9e65996.svg)](https://wakatime.com/@018cff2b-53a4-45db-af92-d78ab0987e8c)
 </div>
 
-	</div>
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JsmNei&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)<br>
 
-</div>
 ## Tecnologia em aprendizado 🎓
 
 
