@@ -17,7 +17,10 @@ Este repositório é o registro da minha jornada no vasto universo da programaç
 
 [![Seu Nome Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=JunneiMoreira&layout=compact)](https://wakatime.com/@JunneiMoreira)
 
-[![wakatime](https://wakatime.com/badge/user/018d4622-e656-4cdf-89ba-0e55d9e65996.svg)](https://wakatime.com/@JunneiMoreira))
+[![wakatime](https://wakatime.com/badge/user/018d4622-e656-4cdf-89ba-0e55d9e65996.svg)](https://wakatime.com/@JunneiMoreira)
+
+[![wakatime](https://wakatime.com/badge/user/018d4622-e656-4cdf-89ba-0e55d9e65996.svg)](https://wakatime.com/@JunneiMoreira)
+
 </div>
 
 
