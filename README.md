@@ -19,8 +19,6 @@ Este repositório é o registro da minha jornada no vasto universo da programaç
 
 [![wakatime](https://wakatime.com/badge/user/018d4622-e656-4cdf-89ba-0e55d9e65996.svg)](https://wakatime.com/@JunneiMoreira)
 
-[![wakatime](https://wakatime.com/badge/user/018d4622-e656-4cdf-89ba-0e55d9e65996.svg)](https://wakatime.com/@JunneiMoreira)
-
 </div>
 
 
